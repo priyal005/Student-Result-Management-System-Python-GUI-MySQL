@@ -1,1 +1,0 @@
-# Student-Result-Management-System-Python-GUI-MySQL
