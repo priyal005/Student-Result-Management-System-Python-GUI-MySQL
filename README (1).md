@@ -58,7 +58,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 - Twitter: https://twitter.com/priyalchawla?s=21
 ## Demo
-Presentation Link: [Click on me!](https://www.canva.com/design/DAFZCAykJzM/XCkZmuvWIq6iVjQqE8_wFw/edit?analyticsCorrelationId=51161939-241c-433e-b5a6-c52f51c01b0a)
-Video demo Link:[Click on me!](https://drive.google.com/drive/folders/1iag5k9zBf3nKaEySXZTDbarPzjIHJDmH?usp=share_link)
-Link will be updated soon
+- Presentation Link: [Click on me!](https://www.canva.com/design/DAFZCAykJzM/XCkZmuvWIq6iVjQqE8_wFw/edit?analyticsCorrelationId=51161939-241c-433e-b5a6-c52f51c01b0a)
+- Video demo Link:[Click on me!](https://drive.google.com/drive/folders/1iag5k9zBf3nKaEySXZTDbarPzjIHJDmH?usp=share_link)
+
 
