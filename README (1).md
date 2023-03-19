@@ -1,7 +1,7 @@
 
 ## Student Result Management System
 
-This is a CRUD system built for managing student results. The application allows users to create, read, update, and delete student results, as well as view all results and individual student results.
+This is a CRUD system built for managing student results. The application allows users to create, read, update, and delete student results, as well as view all results and individual student results.A Student Result Management System using Python, Tkinter, and MySQL can help educational institutions streamline their administrative tasks, save time, and improve the accuracy and accessibility of student data and results.
 
 ## Authors
 
